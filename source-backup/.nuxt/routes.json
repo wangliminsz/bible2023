@@ -1,0 +1,56 @@
+[
+  {
+    "name": "newindex",
+    "path": "/newindex",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/newindex.vue",
+    "chunkName": "pages/newindex"
+  },
+  {
+    "name": "oldindex",
+    "path": "/oldindex",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/oldindex.vue",
+    "chunkName": "pages/oldindex"
+  },
+  {
+    "name": "ytext",
+    "path": "/ytext",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/ytext.vue",
+    "chunkName": "pages/ytext"
+  },
+  {
+    "name": "new-thecontent",
+    "path": "/new/thecontent",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/new/thecontent.vue",
+    "chunkName": "pages/new/thecontent"
+  },
+  {
+    "name": "new-thesplash",
+    "path": "/new/thesplash",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/new/thesplash.vue",
+    "chunkName": "pages/new/thesplash"
+  },
+  {
+    "name": "new-thetext",
+    "path": "/new/thetext",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/new/thetext.vue",
+    "chunkName": "pages/new/thetext"
+  },
+  {
+    "name": "new-thetxt",
+    "path": "/new/thetxt",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/new/thetxt.vue",
+    "chunkName": "pages/new/thetxt"
+  },
+  {
+    "name": "new-backup-2021-06-15-thetext",
+    "path": "/new/backup-2021-06-15/thetext",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/new/backup-2021-06-15/thetext.vue",
+    "chunkName": "pages/new/backup-2021-06-15/thetext"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/limin/Desktop/html-unsplash/mybible/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
